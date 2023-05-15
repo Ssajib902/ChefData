@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "picture": "https://i.ibb.co/9YrqMPT/chef1.jpg",
+      "name": "Abdul Mojid",
+      "experience": 10,
+      "numRecipes": 15,
+      "bio": "Abdul Mojid is a renowned British chef, restaurateur, and television personality. Known for his fiery temper and high culinary standards, he has earned multiple Michelin stars for his restaurants and has hosted several popular cooking shows like 'Hell's Kitchen' and 'MasterChef.' Ramsay is celebrated for his exceptional culinary skills and his dedication to promoting the art of cooking."
+    },
+    {
+      "id": 2,
+      "picture": "https://i.ibb.co/M67Fh91/chef2.jpg",
+      "name": "Barek Molla",
+      "experience": 5,
+      "numRecipes": 8,
+      "bio": "Barek Molla is an American chef, author, and television personality. She introduced French cuisine to the American public through her cooking shows and bestselling cookbook, 'Mastering the Art of French Cooking.' With her warm and approachable teaching style, Child made gourmet cooking accessible to home cooks and inspired a generation of culinary enthusiasts."
+    },
+    {
+      "id": 3,
+      "picture": "https://i.ibb.co/7GWgqfw/chef3.jpg",
+      "name": "Morzina Banu",
+      "experience": 15,
+      "numRecipes": 13,
+      "bio": "Morzina Banu is an Italian chef and the owner of Osteria Francescana, a three-Michelin-starred restaurant in Modena, Italy. Bottura is renowned for her innovative and artistic approach to traditional Italian cuisine. She combines avant-garde techniques with a deep respect for local ingredients, resulting in unique and memorable dining experiences."
+    },
+    {
+      "id": 4,
+      "picture": "https://i.ibb.co/G2G2vZ4/chef4.jpg",
+      "name": "Abul Bashar",
+      "experience": 8,
+      "numRecipes": 15,
+      "bio": "Abul Bashar is an American chef, author, and the owner of Chez Panisse, a pioneering farm-to-table restaurant in Berkeley, California. Waters is a passionate advocate for organic, locally-sourced ingredients and sustainable agriculture. Her culinary philosophy focuses on simplicity, freshness, and the celebration of seasonal produce."
+    },
+    {
+      "id": 5,
+      "picture": "https://i.ibb.co/wLvRyhb/chef5.jpg",
+      "name": "Moudud Ahmed",
+      "experience": 3,
+      "numRecipes": 5,
+      "bio": "Moudud Ahmed is an Italian chef and the owner of Osteria Francescana, a three-Michelin-starred restaurant in Modena, Italy. Bottura is renowned for his innovative and artistic approach to traditional Italian cuisine. He combines avant-garde techniques with a deep respect for local ingredients, resulting in unique and memorable dining experiences."
+    },
+    {
+      "id": 6,
+      "picture": "https://i.ibb.co/wSvg21C/chef6.jpg",
+      "name": "Dablu Sarkar",
+      "experience": 2,
+      "numRecipes": 3,
+      "bio": "Dablu is an American chef and restaurateur, known for his meticulous attention to detail and focus on classical French cooking techniques. He is the chef and owner of The French Laundry, a three-Michelin-starred restaurant in Yountville, California, and has received numerous awards and accolades throughout his career."
+    },
+    {
+      "id": 7,
+      "picture": "https://i.ibb.co/G2G2vZ4/chef4.jpg",
+      "name": "Motin Mia",
+      "experience": 2,
+      "numRecipes": 5,
+      "bio": "Motin Mia is a British chef, television presenter, and cookbook author. With her warm and engaging style, she has inspired home cooks around the world. Lawson's recipes often focus on comfort food and indulgence, and she has published several successful cookbooks, including 'How to Be a Domestic Goddess' and 'Nigella Express."
+    },
+    {
+      "id": 8,
+      "picture": "https://i.ibb.co/wSvg21C/chef6.jpg",
+      "name": "Abdul Khalek",
+      "experience": 6,
+      "numRecipes": 11,
+      "bio": "Abdul Khalek is an Austrian-American chef, restaurateur, and television personality. He is known for his innovative cooking style that blends traditional and modern techniques. Puck has opened numerous acclaimed restaurants and has been awarded multiple Michelin stars. He has also catered the Academy Awards Governor's Ball for over two decades."
+    },
+    {
+      "id": 9,
+      "picture": "https://i.ibb.co/G2G2vZ4/chef4.jpg",
+      "name": "Lavlu Khan",
+      "experience": 3,
+      "numRecipes": 5,
+      "bio": "Lavlu Khan is a Northern Irish chef who became the first female chef to run a three-Michelin-starred restaurant in the UK. She is the chef-patron of Core by Clare Smyth in London. Smyth's culinary style combines her classical training with a focus on sustainable."
+    }
+  ]
+  
